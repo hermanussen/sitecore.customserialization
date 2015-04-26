@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.CustomSerialization", "Sitecore.CustomSerialization\Sitecore.CustomSerialization.csproj", "{48D2D60F-ECB4-4F39-BC92-5A0A57FAF29E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sitecore.CustomSerialization.Tests", "Sitecore.CustomSerialization.Tests\Sitecore.CustomSerialization.Tests.csproj", "{A98D2497-2AFB-482E-991B-34FADE9F4106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48D2D60F-ECB4-4F39-BC92-5A0A57FAF29E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48D2D60F-ECB4-4F39-BC92-5A0A57FAF29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48D2D60F-ECB4-4F39-BC92-5A0A57FAF29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48D2D60F-ECB4-4F39-BC92-5A0A57FAF29E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A98D2497-2AFB-482E-991B-34FADE9F4106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98D2497-2AFB-482E-991B-34FADE9F4106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A98D2497-2AFB-482E-991B-34FADE9F4106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A98D2497-2AFB-482E-991B-34FADE9F4106}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
