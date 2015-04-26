@@ -12,6 +12,7 @@
             Languages = new SortedSet<Language>();
         }
 
+        [JsonIgnore]
         public Guid Id { get; set; }
 
         [JsonProperty(PropertyName = "name")]
